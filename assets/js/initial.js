@@ -1,6 +1,5 @@
 window.addEventListener("load", () => {
 
-
     var end = new Date('12/01/2023 7:00 AM');
 
     var _second = 1000;
@@ -15,7 +14,11 @@ window.addEventListener("load", () => {
         if (distance < 0) {
 
             clearInterval(timer);
-            document.getElementById('countdown').innerHTML = 'EXPIRED!';
+            let acive = document.querySelector('.clock')
+            acive.classList.add("desactive")
+            let noActive = document.querySelector('.button')
+            noActive.classList.remove("desactive")
+            noActive.classList.add("active")
 
             return;
         }
