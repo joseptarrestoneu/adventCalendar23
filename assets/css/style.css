@@ -62,6 +62,10 @@ span {
   box-shadow: #D83A3A 0px 8px 24px;
 }
 
+.title3 {
+  transform: translateX(150px);
+}
+
 .title3 i {
   font-size: 2em;
   color: #D83A3A;
