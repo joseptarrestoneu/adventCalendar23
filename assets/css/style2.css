@@ -44,7 +44,7 @@ span {
 }
 
 .clock div {
-  color: #FFC533;
+  color: white;
 }
 
 .title {
@@ -59,6 +59,7 @@ span {
   text-align: center;
   margin: .5em auto 2em;
   font-size: .875em;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 #days {
