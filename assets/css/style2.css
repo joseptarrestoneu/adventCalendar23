@@ -63,6 +63,8 @@ span {
 
 #days {
   font-size: 3em;
+  position: absolute;
+  bottom: 150px;
 }
 
 .time {
@@ -71,11 +73,13 @@ span {
   align-items: center;
   font-size: 3em;
   margin-bottom: 2em;
+  position: absolute;
+  bottom: 0;
 }
 
 img {
   position: absolute;
-  bottom: 50px;
+  bottom: 150px;
   z-index: -2;
   animation: latidos 6s infinite;
 }
