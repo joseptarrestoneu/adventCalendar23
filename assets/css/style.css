@@ -1,0 +1,125 @@
+:root{
+    font-size: .785;
+    font-family: 'Inconsolata', monospace;
+    --black: #000;
+    --blue: #0d6ef2;
+    --cyan: #0dcaf0;
+    --green: #198754;
+    --indigo: #6610f2;
+    --orange: #fd7e14;
+    --puerple: #6f42c1;
+    --pink: #d63384;
+    --red: #dc3545;
+    --teal: #20c997;
+    --yellow: #ffc107;
+    --white: #fff;
+    box-sizing: border-box;
+    outline: 0 none; /* És un tipus de border per sobre dels borders */
+}
+
+*, ::before, ::after {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    width: 100%;
+    background-color: #151412;
+}
+
+.title_calendar {
+  color: #e3a008;
+  font-size: 2em;
+  margin: 1em .5em;
+  text-align: center;
+}
+
+.calendar {
+  width: 100%;
+  padding: 2em auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.day {
+  width: 100%;
+  margin: 2m auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-decoration: none;
+  height: 100%;
+}
+
+.battery {
+  height: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.battery i {
+  color: #20c997;
+}
+
+
+.day img {
+  width: 80%;
+  height: 100%;
+  margin: 1em auto;
+}
+
+
+.active {
+  filter: grayscale(100%);
+}
+
+.title_day {
+  width: 30%;
+  margin: 0 auto;
+  padding-top: .4em;
+  padding-bottom: .3em;
+  border-radius: 1rem;
+  text-align: center;
+  background-color: #000;
+  color: #77A9FA;
+  font-style: italic;
+  font-size: .75em;
+  position: relative;
+  bottom: -300px;
+  z-index: 2;
+}
+
+
+
+/* Bostrap breackpoints */
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+
+
+
+}
+  
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) {
+    /* here your code */  
+  }
+  
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) {
+    /* here your code */  
+  }
+  
+  /* X-Large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) {
+    /* here your code */  
+  }
+  
+  /* XX-Large devices (larger desktops, 1400px and up) */
+  @media (min-width: 1400px) {
+    /* here your code */  
+  }
