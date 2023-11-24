@@ -58,7 +58,7 @@ span {
   font-size: .875em;
   background-color: red;
   border-radius: 10px;
-  transform: rotate(3deg) translateY(20px);
+  transform: rotate(3deg);
 }
 
 .clock {
