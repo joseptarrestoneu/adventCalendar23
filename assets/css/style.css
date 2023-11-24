@@ -59,6 +59,13 @@ span {
   background-color: red;
   border-radius: 10px;
   transform: rotate(3deg);
+  box-shadow: #D83A3A 0px 8px 24px;
+}
+
+.title3 i {
+  font-size: 2em;
+  color: #D83A3A;
+  animation: latidos2 6s infinite;
 }
 
 .clock {
@@ -103,7 +110,6 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* margin: 0 auto; */
 }
 
 .button_access > p {  
@@ -131,6 +137,12 @@ img {
 @keyframes latidos {
   from { transform: none; }
   50% { transform: scale(1.2); }
+  to { transform: none; }
+}
+
+@keyframes latidos2 {
+  from { transform: none; }
+  50% { transform: scale(1.5); }
   to { transform: none; }
 }
 

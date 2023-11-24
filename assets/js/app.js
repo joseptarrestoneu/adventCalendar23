@@ -3,7 +3,7 @@ window.addEventListener("load", () => {
     const data = [
         {
             titleDay: 1,
-            dateDay: new Date('11/01/2023 7:00 AM'),
+            dateDay: new Date('12/01/2023 7:00 AM'),
             questionDay: "Quan ens vam conèixer?",
             response: [
                 {
@@ -23,19 +23,19 @@ window.addEventListener("load", () => {
         },
         {
             titleDay: 1,
-            dateDay: new Date('11/02/2023 7:00 AM'),
-            questionDay: "",
+            dateDay: new Date('12/02/2023 7:00 AM'),
+            questionDay: "Quina és la millor xocolata que hem provat mai?",
             response: [
                 {
-                    response: "",
+                    response: "Nestle",
                     result: true,
                 },
                 {
-                    response: "",
+                    response: "Lindl",
                     result: false,
                 },
                 {
-                    response: "",
+                    response: "?",
                     result: false,
                 },
             ],
@@ -518,7 +518,7 @@ window.addEventListener("load", () => {
             let date = document.querySelector(".date")
             document.querySelector(".calendarAdvent").classList.add("desactive")
             date.classList.add("activeDay")
-            date.innerHTML = `<div class="petitGif"><iframe src="https://giphy.com/embed/L3Ujzf2eSd2Wlmh5lD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>`
+            date.innerHTML = `<div class="petitGif"><iframe src="https://giphy.com/embed/L3Ujzf2eSd2Wlmh5lD" width="480" height="1000" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>`
             setTimeout(() => {
                 document.querySelector(".date").classList.remove("activeDay")
                 document.querySelector(".date").classList.add("desactive")
