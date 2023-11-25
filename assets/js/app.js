@@ -28,15 +28,15 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/1.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 2,
             dateDay: new Date('12/02/2023 7:00 AM'),
             questionDay: "Quina és la millor xocolata que hem provat mai?",
             response: [
                 {
                     response: "Nestle",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "Ummmm! Quins records! Llàstima que es va pujar de preu!!! Però si busques per casa trobaràs un regalet. On has de buscar? No el trobaras on guardem la xocolata. Massa fàcil! Hauràs de buscar on fem les pizzes!!",
+                    imgResponse: "",
                 },
                 {
                     response: "Lindl",
@@ -45,7 +45,7 @@ window.addEventListener("load", () => {
                     imgResponse: [],
                 },
                 {
-                    response: "?",
+                    response: "Simón Coll",
                     result: false,
                     return: "",
                     imgResponse: [],
@@ -54,7 +54,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/2.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 3,
             dateDay: new Date('12/03/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -80,7 +80,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/3.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 4,
             dateDay: new Date('12/04/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -106,7 +106,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/4.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 5,
             dateDay: new Date('12/05/2023 7:00 AM'),
             questionDay: "",response: [
                 {
@@ -131,7 +131,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/5.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 6,
             dateDay: new Date('12/06/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -157,7 +157,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/6.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 7,
             dateDay: new Date('12/07/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -183,7 +183,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/7.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 8,
             dateDay: new Date('12/08/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -209,7 +209,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/8.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 9,
             dateDay: new Date('12/09/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -235,7 +235,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/9.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 10,
             dateDay: new Date('12/10/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -261,7 +261,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/10.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 11,
             dateDay: new Date('12/11/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -287,7 +287,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/11.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 12,
             dateDay: new Date('12/12/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -313,7 +313,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/12.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 13,
             dateDay: new Date('12/13/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -339,7 +339,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/13.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 14,
             dateDay: new Date('12/14/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -365,7 +365,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/14.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 15,
             dateDay: new Date('12/15/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -391,7 +391,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/15.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 16,
             dateDay: new Date('12/16/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -417,7 +417,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/16.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 17,
             dateDay: new Date('12/17/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -443,7 +443,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/17.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 18,
             dateDay: new Date('12/18/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -469,7 +469,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/18.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 19,
             dateDay: new Date('12/19/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -495,7 +495,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/19.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 20,
             dateDay: new Date('12/20/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -521,7 +521,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/20.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 21,
             dateDay: new Date('12/21/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -547,7 +547,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/21.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 22,
             dateDay: new Date('12/22/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -573,7 +573,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/22.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 23,
             dateDay: new Date('12/23/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -599,7 +599,7 @@ window.addEventListener("load", () => {
             imgDay: "././img/gallery/fulls/23.svg",
         },
         {
-            titleDay: 1,
+            titleDay: 24,
             dateDay: new Date('12/24/2023 7:00 AM'),
             questionDay: "",
             response: [
@@ -671,8 +671,7 @@ window.addEventListener("load", () => {
         } else if (event.target.parentNode.classList.contains("active_link")) {
             let id = event.target.parentNode.getAttribute("id");
             document.querySelector(".date").classList.remove("desactive")
-            document.querySelector(".date").classList.add("activeDay")
-            
+            document.querySelector(".date").classList.add("activeDay") 
             let date = document.querySelector(".date")
             document.querySelector(".calendarAdvent").classList.add("desactive")
             date.classList.add("activeDay")
@@ -682,7 +681,7 @@ window.addEventListener("load", () => {
                 <div class="question">${data[id-1].questionDay}</div>
             </div>
             <div class="second" id="${id}">
-                <div class="question1 questions 1 ${data[id-1].response[0].result}}">
+                <div class="question1 questions 1 ${data[id-1].response[0].result}">
                     <p class="title_date">${data[id-1].response[0].response}</p>
                 </div>
                 <div class="question2 questions 2 ${data[id-1].response[1].result}">
@@ -705,10 +704,11 @@ window.addEventListener("load", () => {
                 response.classList.remove("desactive")
                 response.innerHTML = `
                 <div class="response_div">
-                    <img src="" alt="">
-                    <div class="${data[id-1].response[0].result}">
+                    <img src="${data[id-1].response[0].imgResponse}" alt="">
+                    <div class="target_div ${data[id-1].response[0].result}">
                         <p class="title_date">${data[id-1].response[0].return}</p>
                     </div>
+                    <i class="fa-solid fa-circle-arrow-right"></i>
                 </div>
                 `
             } else {
@@ -720,10 +720,11 @@ window.addEventListener("load", () => {
                     response.classList.remove("desactive")
                     response.innerHTML = `
                     <div class="response_div">
-                        <img src="" alt="">
-                        <div class="${data[id-1].response[0].result}">
+                        <img src="${data[id-1].response[0].imgResponse}" alt="">
+                        <div class="target_div ${data[id-1].response[0].result}">
                             <p class="title_date">${data[id-1].response[0].return}</p>
                         </div>
+                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
                     `
                 } else if (event.target.parentNode.classList.contains("2")) {
@@ -735,9 +736,10 @@ window.addEventListener("load", () => {
                     response.innerHTML = `
                     <div class="response_div">
                         <img src="" alt="">
-                        <div class="${data[id-1].response[1].result}">
+                        <div class="target_div ${data[id-1].response[1].result}">
                             <p class="title_date">${data[id-1].response[1].return}</p>
                         </div>
+                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
                     `
                 } else if (event.target.parentNode.classList.contains("3")) {
@@ -749,15 +751,23 @@ window.addEventListener("load", () => {
                     response.innerHTML = `
                     <div class="response_div">
                         <img src="" alt="">
-                        <div class="${data[id-1].response[2].result}">
+                        <div class="target_div ${data[id-1].response[2].result}">
                             <p class="title_date">${data[id-1].response[2].return}</p>
                         </div>
+                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
                     `
                 }
             }
         }
-
+        // Pantalla preguntes concretes
+        if (event.target.classList.contains("fa-circle-arrow-right")) {
+            document.querySelector(".date").classList.add("activeDay")
+            document.querySelector(".date").classList.remove("desactive")
+            document.querySelector(".response").classList.remove("activeDay")
+            document.querySelector(".response").classList.add("desactive")
+        }
+                
     })
 
 });
