@@ -51,6 +51,11 @@ span {
   margin: .5em .5em 0;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
 .title2 {
   width: 100%;
   text-align: center;
@@ -60,6 +65,7 @@ span {
   border-radius: 10px;
   transform: rotate(3deg);
   box-shadow: #D83A3A 0px 8px 24px;
+  
 }
 
 .title3 {
