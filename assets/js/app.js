@@ -3,7 +3,7 @@ window.addEventListener("load", () => {
     const data = [
         {
             titleDay: 1,
-            dateDay: new Date('11/01/2023 7:00 AM'),
+            dateDay: new Date('12/01/2023 7:00 AM'),
             questionDay: "Quan ens vam conèixer?",
             response: [
                 {
