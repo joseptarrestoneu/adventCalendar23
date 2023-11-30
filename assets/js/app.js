@@ -9,7 +9,7 @@ window.addEventListener("load", () => {
                 {
                     response: "El 31 de desembre de 2007",
                     result: true,
-                    return: "Aquí va començar tot! NOOO!! Va ser l'any anterior, però no he trobat fotos d'aquell anY!! Snif Snif. T'he compartit més fotos en el teu email.",
+                    return: "Aquí va començar tot! NOOO!! Va ser l'any anterior, però no he trobat fotos d'aquell anY!! Snif Snif. T'he compartit més fotos en el teu email. Però després de 15 anys no ja no puc imaginar-me la vida sense tu. I no em contestis 'Hola'!",
                     typeFile: "image",
                     imgResponse: "././img/gallery/thumbs/dia1.jpg", 
                 },
