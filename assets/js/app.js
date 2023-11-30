@@ -3,27 +3,27 @@ window.addEventListener("load", () => {
     const data = [
         {
             titleDay: 1,
-            dateDay: new Date('12/01/2023 7:00 AM'),
+            dateDay: new Date('11/01/2023 7:00 AM'),
             questionDay: "Quan ens vam conèixer?",
             response: [
                 {
                     response: "El 31 de desembre de 2007",
                     result: true,
-                    return: "Aquí va començar tot!",
+                    return: "Aquí va començar tot! NOOO!! Va ser l'any anterior, però no he trobat fotos d'aquell anY!! Snif Snif. T'he compartit més fotos en el teu email.",
                     typeFile: "image",
-                    imgResponse: [], 
+                    imgResponse: "././img/gallery/thumbs/dia1.jpg", 
                 },
                 {
                     response: "Quan es va originar l'Univers, entre que ho va decidir Deu i el Big Bang",
                     result: false,
-                    return: "",
+                    return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: [],
                 },
                 {
                     response: "Ens coneixem?",
                     result: false,
-                    return: "",
+                    return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: [],
                 },
@@ -710,19 +710,19 @@ window.addEventListener("load", () => {
     })
 
     // Activar la musica del calendari d'advent
-    const playSound = function() {
-        let element = document.createElement('div');
-        element.setAttribute('style', 'display: none');
-        element.innerHTML = `
-            <audio autoplay loop>
-                <source src="media/audio/burrito.mp3" type="audio/mpeg">
-                No soportat pel navegador
-            </audio>
-        `;
-        document.body.appendChild(element);
-        document.removeEventListener('click', playSound);
-    }
-    document.addEventListener("click", playSound);
+    // const playSound = function() {
+    //     let element = document.createElement('div');
+    //     element.setAttribute('style', 'display: none');
+    //     element.innerHTML = `
+    //         <audio autoplay loop>
+    //             <source src="media/audio/burrito.mp3" type="audio/mpeg">
+    //             No soportat pel navegador
+    //         </audio>
+    //     `;
+    //     document.body.appendChild(element);
+    //     document.removeEventListener('click', playSound);
+    // }
+    // document.addEventListener("click", playSound);
 
     // Annar cap a la preguntes del dia concret
     document.addEventListener("click", (event) => {
@@ -747,7 +747,7 @@ window.addEventListener("load", () => {
             document.querySelector(".calendarAdvent").classList.add("desactive")
             date.classList.add("activeDay")
             date.innerHTML = `
-            <img src="${data[id-1].imgDay}" alt="">
+            <img class="image_record" src="${data[id-1].imgDay}" alt="">
             <div class="first">
                 <div class="question">${data[id-1].questionDay}</div>
             </div>
