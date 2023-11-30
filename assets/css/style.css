@@ -147,7 +147,7 @@ img {
 
 @keyframes latidos {
   from { transform: none; }
-  50% { transform: scale(1.2); }
+  50% { transform: scale(.7); }
   to { transform: none; }
 }
 

@@ -69,7 +69,7 @@ body {
   flex-direction: column;
   text-decoration: none;
   height: 100%;
-}
+} 
 
 .day img {
   width: 80%;
@@ -222,6 +222,10 @@ body {
   align-items: center;
   flex-direction: column;
   margin: 0 auto;
+}
+
+.response_div img {
+  width: 100%;
 }
 
 .target_div {

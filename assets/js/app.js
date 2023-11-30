@@ -10,18 +10,21 @@ window.addEventListener("load", () => {
                     response: "El 31 de desembre de 2007",
                     result: true,
                     return: "Aquí va començar tot!",
+                    typeFile: "image",
                     imgResponse: [], 
                 },
                 {
                     response: "Quan es va originar l'Univers, entre que ho va decidir Deu i el Big Bang",
                     result: false,
                     return: "",
+                    typeFile: "",
                     imgResponse: [],
                 },
                 {
                     response: "Ens coneixem?",
                     result: false,
                     return: "",
+                    typeFile: "",
                     imgResponse: [],
                 },
             ],
@@ -36,71 +39,78 @@ window.addEventListener("load", () => {
                     response: "Nestle",
                     result: true,
                     return: "Ummmm! Quins records! Llàstima que es va pujar de preu!!! Però si busques per casa trobaràs un regalet. On has de buscar? No el trobaras on guardem la xocolata. Massa fàcil! Hauràs de buscar on fem les pizzes!!",
+                    typeFile: "",
                     imgResponse: "",
                 },
                 {
                     response: "Lindl",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "Simón Coll",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/2.svg",
         },
         {
             titleDay: 3,
-            dateDay: new Date('12/03/2023 7:00 AM'),
-            questionDay: "",
+            dateDay: new Date('11/03/2023 7:00 AM'),
+            questionDay: "Ja s'acosta Nadal! Però durant els anys has conegut molta gent, però poques t'han marcat. Quina creus que és una de les més pesades?",
             response: [
                 {
-                    response: "",
+                    response: "La pesada de la Maria!!!",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "Correcte!!!! Mira què et vol dir!",
+                    typeFile: "video",
+                    imgResponse: "././media/video/maria.mp4",
                 },
                 {
-                    response: "",
+                    response: "En Tomàs que viu a sota nostra.",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "La 'falsa' metgesa que vivia al nostra carrer!",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/3.svg",
         },
         {
             titleDay: 4,
-            dateDay: new Date('12/04/2023 7:00 AM'),
-            questionDay: "",
+            dateDay: new Date('11/04/2023 7:00 AM'),
+            questionDay: "Ummm! Quans records hem fet els dos!! Hem anat per aquí, per allà, viatjant pel món... Quina ha estat un dels primers viatges a fora d'Espanya que vam fer?",
             response: [
                 {
-                    response: "",
+                    response: "Roma, una de les millors ciutats i amb el millor menjar!!",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "Quins recors: tirites, escalada per baranes dins d'una escala, veure la Fontana com la netegen,... Mira les fotos aquí: https://tuit.cat/Dl1s5",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia4.jpg",
                 },
                 {
-                    response: "",
+                    response: "Paris, la ciutat de l'amor!!",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!! També hi hem anat però no va ser la primera!!",
+                    imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Londres",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/4.svg",
@@ -108,24 +118,28 @@ window.addEventListener("load", () => {
         {
             titleDay: 5,
             dateDay: new Date('12/05/2023 7:00 AM'),
-            questionDay: "",response: [
+            questionDay: "Ja se que t'agrada molt anar al Teatre. Quina és l'obra de teatre que tenim pendent? El regal el trobaràs a dins el llibre d'aquesta obra!!",
+            response: [
                 {
                     response: "",
                     result: true,
                     return: "",
+                    typeFile: "",
                     imgResponse: [],
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/5.svg",
@@ -138,20 +152,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/6.svg",
@@ -164,20 +181,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/7.svg",
@@ -190,20 +210,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/8.svg",
@@ -216,20 +239,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/9.svg",
@@ -242,20 +268,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/10.svg",
@@ -268,20 +297,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/11.svg",
@@ -289,25 +321,28 @@ window.addEventListener("load", () => {
         {
             titleDay: 12,
             dateDay: new Date('12/12/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Com som una parella molt coneguda i internacional i tenim molta cultura mundial el regal d'avui te a veure amb el primer president negre dels Estats Units",
             response: [
                 {
-                    response: "",
+                    response: "Barack Obama",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "Correcte!!!! Mira què et vol dir tota la seva familia!",
+                    typeFile: "video",
+                    imgResponse: "././media/video/faja.mp4"
                 },
                 {
-                    response: "",
+                    response: "Jordi Pujol",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Bladimir Putin",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/12.svg",
@@ -320,20 +355,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/13.svg",
@@ -346,20 +384,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/14.svg",
@@ -372,20 +413,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/15.svg",
@@ -398,20 +442,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/16.svg",
@@ -424,20 +471,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/17.svg",
@@ -450,20 +500,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/18.svg",
@@ -476,20 +529,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/19.svg",
@@ -502,20 +558,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/20.svg",
@@ -528,20 +587,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/21.svg",
@@ -554,20 +616,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/22.svg",
@@ -580,20 +645,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/23.svg",
@@ -606,20 +674,23 @@ window.addEventListener("load", () => {
                 {
                     response: "",
                     result: true,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
                 {
                     response: "",
                     result: false,
-                    return: "",
-                    imgResponse: [],
+                    return: "No, no, no!!!!",
+                    typeFile: "",
+                    imgResponse: "",
                 },
             ],
             imgDay: "././img/gallery/fulls/24.svg",
@@ -702,15 +773,29 @@ window.addEventListener("load", () => {
                 let response = document.querySelector(".response")
                 response.classList.add("activeDay")
                 response.classList.remove("desactive")
-                response.innerHTML = `
-                <div class="response_div">
-                    <img src="${data[id-1].response[0].imgResponse}" alt="">
-                    <div class="target_div ${data[id-1].response[0].result}">
-                        <p class="title_date">${data[id-1].response[0].return}</p>
+                if (data[id-1].response[0].typeFile === "video") {
+                    response.innerHTML = `
+                    <div class="response_div">
+                        <video src="${data[id-1].response[0].imgResponse}" autoplay poster="posterimage.jpg">
+                            Tu navegador no admite el elemento <code>video</code>.
+                        </video>
+                        <div class="target_div ${data[id-1].response[0].result}">
+                            <p class="title_date">${data[id-1].response[0].return}</p>
+                        </div>
+                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
-                    <i class="fa-solid fa-circle-arrow-right"></i>
-                </div>
-                `
+                    `
+                } else if (data[id-1].response[0].typeFile === "image") {
+                    response.innerHTML = `
+                    <div class="response_div">
+                        <img src="${data[id-1].response[0].imgResponse}" alt="">
+                        <div class="target_div ${data[id-1].response[0].result}">
+                            <p class="title_date">${data[id-1].response[0].return}</p>
+                        </div>
+                        <i class="fa-solid fa-circle-arrow-right"></i>
+                    </div>
+                    `
+                }
             } else {
                 if (event.target.parentNode.classList.contains("1")) {
                     document.querySelector(".date").classList.remove("activeDay")
@@ -720,7 +805,7 @@ window.addEventListener("load", () => {
                     response.classList.remove("desactive")
                     response.innerHTML = `
                     <div class="response_div">
-                        <img src="${data[id-1].response[0].imgResponse}" alt="">
+                        <iframe src="https://giphy.com/embed/eKrgVyZ7zLvJrgZNZn" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                         <div class="target_div ${data[id-1].response[0].result}">
                             <p class="title_date">${data[id-1].response[0].return}</p>
                         </div>
@@ -735,7 +820,7 @@ window.addEventListener("load", () => {
                     response.classList.remove("desactive")
                     response.innerHTML = `
                     <div class="response_div">
-                        <img src="" alt="">
+                        <iframe src="https://giphy.com/embed/eKrgVyZ7zLvJrgZNZn" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                         <div class="target_div ${data[id-1].response[1].result}">
                             <p class="title_date">${data[id-1].response[1].return}</p>
                         </div>
@@ -750,7 +835,7 @@ window.addEventListener("load", () => {
                     response.classList.remove("desactive")
                     response.innerHTML = `
                     <div class="response_div">
-                        <img src="" alt="">
+                        <iframe src="https://giphy.com/embed/eKrgVyZ7zLvJrgZNZn" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                         <div class="target_div ${data[id-1].response[2].result}">
                             <p class="title_date">${data[id-1].response[2].return}</p>
                         </div>
