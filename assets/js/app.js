@@ -61,7 +61,7 @@ window.addEventListener("load", () => {
         },
         {
             titleDay: 3,
-            dateDay: new Date('11/03/2023 7:00 AM'),
+            dateDay: new Date('12/03/2023 7:00 AM'),
             questionDay: "Ja s'acosta Nadal! Però durant els anys has conegut molta gent, però poques t'han marcat. Quina creus que és una de les més pesades?",
             response: [
                 {
@@ -90,7 +90,7 @@ window.addEventListener("load", () => {
         },
         {
             titleDay: 4,
-            dateDay: new Date('11/04/2023 7:00 AM'),
+            dateDay: new Date('12/04/2023 7:00 AM'),
             questionDay: "Ummm! Quans records hem fet els dos!! Hem anat per aquí, per allà, viatjant pel món... Quina ha estat un dels primers viatges a fora d'Espanya que vam fer?",
             response: [
                 {
