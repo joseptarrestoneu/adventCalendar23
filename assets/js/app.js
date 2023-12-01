@@ -32,7 +32,7 @@ window.addEventListener("load", () => {
         },
         {
             titleDay: 2,
-            dateDay: new Date('11/02/2023 7:00 AM'),
+            dateDay: new Date('12/02/2023 7:00 AM'),
             questionDay: "Quina és la millor xocolata que hem provat mai?",
             response: [
                 {
