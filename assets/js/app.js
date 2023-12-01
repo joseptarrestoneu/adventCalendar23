@@ -782,8 +782,8 @@ window.addEventListener("load", () => {
                         <div class="target_div ${data[id-1].response[0].result}">
                             <p class="title_date">${data[id-1].response[0].return}</p>
                         </div>
-                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
+                    <i class="fa-solid fa-circle-arrow-right"></i>
                     `
                 } else if (data[id-1].response[0].typeFile === "image") {
                     response.innerHTML = `
@@ -792,8 +792,8 @@ window.addEventListener("load", () => {
                         <div class="target_div ${data[id-1].response[0].result}">
                             <p class="title_date">${data[id-1].response[0].return}</p>
                         </div>
-                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
+                    <i class="fa-solid fa-circle-arrow-right"></i>
                     `
                 }
             } else {
@@ -809,8 +809,8 @@ window.addEventListener("load", () => {
                         <div class="target_div ${data[id-1].response[0].result}">
                             <p class="title_date">${data[id-1].response[0].return}</p>
                         </div>
-                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
+                    <i class="fa-solid fa-circle-arrow-right"></i>
                     `
                 } else if (event.target.parentNode.classList.contains("2")) {
                     document.querySelector(".date").classList.remove("activeDay")
@@ -824,8 +824,8 @@ window.addEventListener("load", () => {
                         <div class="target_div ${data[id-1].response[1].result}">
                             <p class="title_date">${data[id-1].response[1].return}</p>
                         </div>
-                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
+                    <i class="fa-solid fa-circle-arrow-right"></i>
                     `
                 } else if (event.target.parentNode.classList.contains("3")) {
                     document.querySelector(".date").classList.remove("activeDay")
@@ -839,8 +839,8 @@ window.addEventListener("load", () => {
                         <div class="target_div ${data[id-1].response[2].result}">
                             <p class="title_date">${data[id-1].response[2].return}</p>
                         </div>
-                        <i class="fa-solid fa-circle-arrow-right"></i>
                     </div>
+                    <i class="fa-solid fa-circle-arrow-right"></i>
                     `
                 }
             }
