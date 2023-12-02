@@ -61,7 +61,7 @@ window.addEventListener("load", () => {
         },
         {
             titleDay: 3,
-            dateDay: new Date('12/03/2023 7:00 AM'),
+            dateDay: new Date('11/03/2023 7:00 AM'),
             questionDay: "Ja s'acosta Nadal! Però durant els anys has conegut molta gent, però poques t'han marcat. Quina creus que és una de les més pesades?",
             response: [
                 {
@@ -124,8 +124,8 @@ window.addEventListener("load", () => {
                     response: "",
                     result: true,
                     return: "",
-                    typeFile: "",
-                    imgResponse: [],
+                    typeFile: "video",
+                    imgResponse: "././media/video/nuria.mp4",
                 },
                 {
                     response: "",
@@ -776,7 +776,7 @@ window.addEventListener("load", () => {
                 if (data[id-1].response[0].typeFile === "video") {
                     response.innerHTML = `
                     <div class="response_div">
-                        <video src="${data[id-1].response[0].imgResponse}" autoplay poster="posterimage.jpg">
+                        <video src="${data[id-1].response[0].imgResponse}" autoplay>
                             Tu navegador no admite el elemento <code>video</code>.
                         </video>
                         <div class="target_div ${data[id-1].response[0].result}">
