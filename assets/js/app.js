@@ -96,7 +96,7 @@ window.addEventListener("load", () => {
                 {
                     response: "Roma, una de les millors ciutats i amb el millor menjar!!",
                     result: true,
-                    return: "Quins recors: tirites, escalada per baranes dins d'una escala, veure la Fontana com la netegen,... Mira les fotos aquí: https://tuit.cat/Dl1s5",
+                    return: "Quins recors: tirites, escalada per baranes dins d'una escala, veure la Fontana com la netegen,... Mira les fotos que t'he enviat per email!!!",
                     typeFile: "image",
                     imgResponse: "././img/gallery/thumbs/dia4.jpg",
                 },
