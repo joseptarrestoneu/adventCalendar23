@@ -118,24 +118,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 5,
             dateDay: new Date('12/05/2023 7:00 AM'),
-            questionDay: "Ja se que t'agrada molt anar al Teatre. Quina és l'obra de teatre que tenim pendent? El regal el trobaràs a dins el llibre d'aquesta obra!!",
+            questionDay: "Com som una parella molt coneguda i internacional i tenim molta cultura mundial el regal d'avui te a veure amb el primer president negre dels Estats Units",
             response: [
                 {
-                    response: "",
+                    response: "Barack Obama",
                     result: true,
-                    return: "",
+                    return: "Correcte!!!! Mira què et vol dir tota la seva familia!",
                     typeFile: "video",
-                    imgResponse: "././media/video/nuria.mp4",
+                    imgResponse: "././media/video/faja.mp4"
                 },
                 {
-                    response: "",
+                    response: "Jordi Pujol",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Bladimir Putin",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
@@ -147,12 +147,12 @@ window.addEventListener("load", () => {
         {
             titleDay: 6,
             dateDay: new Date('12/06/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Ja se que t'agrada molt anar al Teatre. Quina és l'obra de teatre que tenim pendent? El regal el trobaràs a dins el llibre d'aquesta obra!!",
             response: [
                 {
-                    response: "",
+                    response: "La Trena",
                     result: true,
-                    return: "No, no, no!!!!",
+                    return: "Com ha costat trobar entrades!!!! Espero que t'agradi.",
                     typeFile: "",
                     imgResponse: "",
                 },
