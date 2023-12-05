@@ -147,24 +147,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 6,
             dateDay: new Date('12/06/2023 7:00 AM'),
-            questionDay: "Ja se que t'agrada molt anar al Teatre. Quina és l'obra de teatre que tenim pendent? El regal el trobaràs a dins el llibre d'aquesta obra!!",
+            questionDay: "Ja se que t'agrada molt anar al Teatre. El regal el trobaràs a dins d'un dels teus llibres que porta el nom d'un ball i música que t'agrada molt a tu",
             response: [
                 {
-                    response: "La Trena",
+                    response: "Tango",
                     result: true,
-                    return: "Com ha costat trobar entrades!!!! Espero que t'agradi.",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Com ha costat trobar entrades!!!! Espero que t'agradi!",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia6.jpg",
                 },
                 {
-                    response: "",
+                    response: "Ballet",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Pop-Rock",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
