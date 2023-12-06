@@ -176,24 +176,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 7,
             dateDay: new Date('12/07/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Continuem amb gent que t'estima molt. Qui és la més despistada del món!!!",
             response: [
                 {
-                    response: "",
+                    response: "La Bebetes",
                     result: true,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Et vol dir una cosa!!!!",
+                    typeFile: "video",
+                    imgResponse: "././media/video/nuria.mp4",
                 },
                 {
-                    response: "",
+                    response: "La Confor",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "La Geganta de Torelló",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
