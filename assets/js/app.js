@@ -205,24 +205,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 8,
             dateDay: new Date('12/08/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "En aquest calendari no podia faltar una de les teves aficions preferides!!!",
             response: [
                 {
-                    response: "",
+                    response: "Llegir",
                     result: true,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Per trobar el regal d'avui hauràs d'anar a buscar-lo sota al llit!!!!",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia8.jpg",
                 },
                 {
-                    response: "",
+                    response: "Cantar",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Anar amb bici",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
@@ -321,24 +321,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 12,
             dateDay: new Date('12/12/2023 7:00 AM'),
-            questionDay: "Com som una parella molt coneguda i internacional i tenim molta cultura mundial el regal d'avui te a veure amb el primer president negre dels Estats Units",
+            questionDay: "",
             response: [
                 {
-                    response: "Barack Obama",
+                    response: "",
                     result: true,
-                    return: "Correcte!!!! Mira què et vol dir tota la seva familia!",
-                    typeFile: "video",
-                    imgResponse: "././media/video/faja.mp4"
+                    return: "",
+                    typeFile: "",
+                    imgResponse: ""
                 },
                 {
-                    response: "Jordi Pujol",
+                    response: "",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "Bladimir Putin",
+                    response: "",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
