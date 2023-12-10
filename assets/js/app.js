@@ -292,24 +292,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 11,
             dateDay: new Date('12/11/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Quina és la persona que l'hi hem d'agrair diverses visites a Llançà!!!",
             response: [
                 {
-                    response: "",
+                    response: "La Carme",
                     result: true,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Mare de deu quanta gent vol felicitar-te el Nadal!!",
+                    typeFile: "video",
+                    imgResponse: "././media/video/carme.mp4",
                 },
                 {
-                    response: "",
+                    response: "La Pili",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "La Manoli",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
