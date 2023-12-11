@@ -321,24 +321,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 12,
             dateDay: new Date('12/12/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Avui t'ho hauràs de currar una mica més. Simplement caldrà que busquis on tenim guardades les agulles d'estendre el regal que no pot faltar cap any!!",
             response: [
                 {
-                    response: "",
+                    response: "A dalt",
                     result: true,
-                    return: "",
-                    typeFile: "",
-                    imgResponse: ""
+                    return: "Cap a dalt falta gent!!!",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia12.jpg"
                 },
                 {
-                    response: "",
+                    response: "Amb les bicicletes",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "A la cuina",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
