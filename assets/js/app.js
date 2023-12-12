@@ -350,24 +350,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 13,
             dateDay: new Date('12/13/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "I com no podia faltar, la teva millor cosineta!!!!",
             response: [
                 {
-                    response: "",
+                    response: "La Montse Canudes",
                     result: true,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Ja, ja, ja! Quina família!!!",
+                    typeFile: "video",
+                    imgResponse: "././media/video/montse.mp4",
                 },
                 {
-                    response: "",
+                    response: "La Teresa Basagaña",
                     result: false,
-                    return: "No, no, no!!!!",
+                    return: "No, no, no!!!! No sabies que existia?",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Sofia de Borbó",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
