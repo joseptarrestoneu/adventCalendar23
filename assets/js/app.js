@@ -437,24 +437,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 16,
             dateDay: new Date('12/16/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Avui hauràs de tornar-t'ho a currar i hauràs d'anar a veure la meva amant.",
             response: [
                 {
-                    response: "",
+                    response: "Al traster",
                     result: true,
-                    return: "No, no, no!!!!",
+                    return: "Si, si, a veure les bicicletes!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "A les golfes",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Al cel obert",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
