@@ -466,26 +466,26 @@ window.addEventListener("load", () => {
         {
             titleDay: 17,
             dateDay: new Date('12/17/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Quina sort de compartir la vida amb tu. Vols veure una altra de les experiències que hem compartit?",
             response: [
                 {
-                    response: "",
+                    response: "Si",
                     result: true,
-                    return: "No, no, no!!!!",
+                    return: "Què et sembla Paris! Mira el correu per veure les fotos!!",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia17.jpg",
+                },
+                {
+                    response: "No cal",
+                    result: false,
+                    return: "I una merda!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Masses n'hem compartit!!!",
                     result: false,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
-                },
-                {
-                    response: "",
-                    result: false,
-                    return: "No, no, no!!!!",
+                    return: "I el què t'espera!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
