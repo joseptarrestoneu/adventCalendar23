@@ -502,7 +502,7 @@ window.addEventListener("load", () => {
                     result: true,
                     return: "Cullons!! No podia faltar, no?!!!",
                     typeFile: "video",
-                    imgResponse: "././media/video/cabroneta.mp4",
+                    imgResponse: "././media/video/bruna.mp4",
                 },
                 {
                     response: "La Maria Carey",
