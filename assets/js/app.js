@@ -495,24 +495,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 18,
             dateDay: new Date('12/18/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Quina és l'altre personeta que sempre vol venir amb mi amb bicicleta?",
             response: [
                 {
-                    response: "",
+                    response: "La Brunisenda",
                     result: true,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Cullons!! No podia faltar, no?!!!",
+                    typeFile: "video",
+                    imgResponse: "././media/video/cabroneta.mp4",
                 },
                 {
-                    response: "",
+                    response: "La Maria Carey",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "En Florenci!!!",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
