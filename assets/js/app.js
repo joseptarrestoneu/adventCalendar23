@@ -524,26 +524,26 @@ window.addEventListener("load", () => {
         {
             titleDay: 19,
             dateDay: new Date('12/19/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Això s'està acabant! Snif Snif! Però encara queda espai per un regalitu més, no?",
             response: [
                 {
-                    response: "",
+                    response: "Si, el vull!!!!",
                     result: true,
-                    return: "No, no, no!!!!",
+                    return: "M'hauràs de despertar amb un petonet i t'ho diré!!!",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia19.jpg",
+                },
+                {
+                    response: "No el vull. No m'han agradat gens els regalitos!!!",
+                    result: false,
+                    return: "No, no, no!!!! Mentidera!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "No m'ho crec que hi hagi més regalitus!!!",
                     result: false,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
-                },
-                {
-                    response: "",
-                    result: false,
-                    return: "No, no, no!!!!",
+                    return: "No, no, no!!!! Mentidera!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
