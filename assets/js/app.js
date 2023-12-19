@@ -553,26 +553,26 @@ window.addEventListener("load", () => {
         {
             titleDay: 20,
             dateDay: new Date('12/20/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "I ens acostem als últims regals! Quins records tenim de nosaltres dos?",
             response: [
                 {
-                    response: "",
+                    response: "Bons moments",
                     result: true,
-                    return: "No, no, no!!!!",
+                    return: "Sobretot això guapa! Al correu tens més fotos de Valencia! I recordes aquesta foto?",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia20.jpg",
+                },
+                {
+                    response: "No massa res",
+                    result: false,
+                    return: "No, no, no!!!! I lo sabes!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Mals records",
                     result: false,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
-                },
-                {
-                    response: "",
-                    result: false,
-                    return: "No, no, no!!!!",
+                    return: "No, no, no!!!! I lo sabes!",
                     typeFile: "",
                     imgResponse: "",
                 },
