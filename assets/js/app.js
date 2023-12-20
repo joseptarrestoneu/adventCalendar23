@@ -582,26 +582,26 @@ window.addEventListener("load", () => {
         {
             titleDay: 21,
             dateDay: new Date('12/21/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Avui toca una de les coses que més ens agraden als dos",
             response: [
                 {
-                    response: "",
+                    response: "Un petó",
                     result: true,
-                    return: "No, no, no!!!!",
+                    return: "Si!!!!! Què et sembla si em vens a despertar i et dono un petò de bon dia?",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia21.jpg",
+                },
+                {
+                    response: "Anar amb bicicleta",
+                    result: false,
+                    return: "No, no, no!!!! Ni se t'acodeixi!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Anar a veure habaneres",
                     result: false,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
-                },
-                {
-                    response: "",
-                    result: false,
-                    return: "No, no, no!!!!",
+                    return: "No ens desagrada, però ara no toca, no?",
                     typeFile: "",
                     imgResponse: "",
                 },
