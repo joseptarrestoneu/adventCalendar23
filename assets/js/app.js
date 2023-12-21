@@ -611,24 +611,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 22,
             dateDay: new Date('12/22/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Ja queda poc!! Aviat cagarem el tió, però em sembla que encara tindràs alguns regalets més. On el trobaré?",
             response: [
                 {
-                    response: "",
+                    response: "Al nostra celler",
                     result: true,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Siiiiiii!!!!",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia22.jpg",
                 },
                 {
-                    response: "",
+                    response: "Al traster",
                     result: false,
-                    return: "No, no, no!!!!",
+                    return: "Aquest cop no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "A les golfes",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
