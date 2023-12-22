@@ -640,26 +640,26 @@ window.addEventListener("load", () => {
         {
             titleDay: 23,
             dateDay: new Date('12/23/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Guapa, quin ha estat un dels millors moments dels últims temps?",
             response: [
                 {
-                    response: "",
+                    response: "El nostre casament!!",
                     result: true,
-                    return: "No, no, no!!!!",
+                    return: "Tela marinera!!! Que guai!!! Hi tornem?",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia23.jpg",
+                },
+                {
+                    response: "Cap",
+                    result: false,
+                    return: "No, no, no!!!! I lo sabes!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Pesao!!!!",
                     result: false,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
-                },
-                {
-                    response: "",
-                    result: false,
-                    return: "No, no, no!!!!",
+                    return: "No ens pasem!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
