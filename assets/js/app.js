@@ -669,24 +669,24 @@ window.addEventListener("load", () => {
         {
             titleDay: 24,
             dateDay: new Date('12/24/2023 7:00 AM'),
-            questionDay: "",
+            questionDay: "Aqui s'acaba tot, però també comença un altre cop. I quin és l'últim regal?",
             response: [
                 {
-                    response: "",
+                    response: "Nosaltres dos!",
                     result: true,
-                    return: "No, no, no!!!!",
-                    typeFile: "",
-                    imgResponse: "",
+                    return: "Si!! I estem bé no? T'estimo guapa!",
+                    typeFile: "image",
+                    imgResponse: "././img/gallery/thumbs/dia24.jpg",
                 },
                 {
-                    response: "",
+                    response: "Res",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
                     imgResponse: "",
                 },
                 {
-                    response: "",
+                    response: "Ja era hora!!!!",
                     result: false,
                     return: "No, no, no!!!!",
                     typeFile: "",
